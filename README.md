@@ -1,5 +1,5 @@
 ~~# Dermo-December~~
-~~Updated December version ~~
+~~Updated December version~~
 
 Looks like this is my first commit, I must have created the repositiory but never finished publishing. 
 
